@@ -169,7 +169,7 @@ cd maquininha-projeto
 
 ```sql
 -- 2. Crie o banco de dados
-CREATE DATABASE central_flex;
+CREATE DATABASE maquininha_db;
 ```
 
 ```bash
